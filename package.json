@@ -1,0 +1,18 @@
+{
+  "name": "seo-specialist",
+  "version": "1.0.0",
+  "description": "A simple hack to enable and enhance the SEO of your Single Page applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "node server.js"
+  },
+  "author": "Aditya <contact@theguywithideas.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "helmet": "^3.13.0",
+    "redis": "^2.8.0"
+  }
+}
